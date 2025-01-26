@@ -106,10 +106,10 @@ var providerOption = fs.Option{
 	}, {
 		Value: "Hetzner",
 		Help:  "Hetzner Object Storage",
-	},{
+	}, { 
 		Value: "HuaweiOBS",
 		Help:  "Huawei Object Storage Service",
-	},  {
+	}, {
 		Value: "IBMCOS",
 		Help:  "IBM COS S3",
 	}, {
